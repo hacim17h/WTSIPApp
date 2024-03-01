@@ -12,4 +12,4 @@ scipy
 vega_datasets
 ipyvolume
 seaborn
-sklearn
+scikit-learn
