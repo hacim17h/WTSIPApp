@@ -1,6 +1,5 @@
 voila==0.5.5
 ipywidgets==8.0.4
-voila-topbar==0.1.1
 ipykernel
 pandas
 bokeh
